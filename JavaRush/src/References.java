@@ -1,7 +1,7 @@
 public class References
 {
 
-	// This is commeNT
+	// Another comment
 	
 	public static void main(String[] args)
 	{
