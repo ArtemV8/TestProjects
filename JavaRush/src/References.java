@@ -6,7 +6,7 @@ public class References
 	public static void main(String[] args)
 	{
 		int m = 5;
-		int n = 6;
+		int n = 165;
 
 		System.out.println("M=" + m + " N=" + n);
 		swap(m, n);
